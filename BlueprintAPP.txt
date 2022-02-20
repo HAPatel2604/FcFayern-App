@@ -13,3 +13,7 @@ Statistics : ranking in training / attendances
 
 
 Data i required from others : 
+Username
+Name 
+E-Mail 
+Password
