@@ -1,0 +1,15 @@
+<<<<<<<<<<<<<<<<App should be designed for our football group>>>>>>>>>>>>
+
+Features of my app : 
+Create an event
+Voting for football day / time / Place 
+Voting for participants
+live number of total players
+
+future features: 
+count penalties
+add pictures and sorted by training day
+Statistics : ranking in training / attendances 
+
+
+Data i required from others : 
